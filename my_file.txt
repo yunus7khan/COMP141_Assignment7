@@ -1,0 +1,10 @@
+hello 
+my name is yunus khan
+i am editing this through vi
+for my
+assignment
+for comp 141
+i am a freshman at
+LUC
+neuroscience major
+
